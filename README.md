@@ -1,5 +1,4 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot Lâm Hồng Nguyên
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
-
+Chương trình chatbot được tạo ra từ Lâm Hồng Nguyên
 
